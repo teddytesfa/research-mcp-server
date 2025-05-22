@@ -22,7 +22,7 @@ A demonstration project showcasing how to create a custom MCP (Model Control Pro
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   clone this repository
    cd mcp_project
    ```
 
